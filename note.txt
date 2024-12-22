@@ -1,0 +1,4 @@
+npm init -y
+npm install express dotenv body-parser mongoose nodemon
+
+package.json => under "scripts" => "dev": "nodemon app.js"
